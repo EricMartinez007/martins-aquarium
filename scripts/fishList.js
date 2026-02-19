@@ -15,7 +15,7 @@ export const fishList = () => {
                     <p>Diet: ${fish.diet}</p>
                 </div>
             </article>
-`;
+        `;
     }
     return fishHTML;
 };
